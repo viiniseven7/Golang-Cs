@@ -1,12 +1,4 @@
-Com base na análise dos arquivos que você enviou, criei um arquivo `README.md` simples e direto para o seu projeto.
 
-Este guia cobre a instalação, como rodar o servidor (que agora está configurado na porta **8081** no seu `main.go`) e como testar.
-
-Aqui está o conteúdo sugerido:
-
------
-
-````markdown
 # 📚 Google Books Search API - Go
 
 Esta é uma API REST simples desenvolvida em Go (Golang) que integra com a API pública do Google Books. Ela permite realizar buscas de livros e retorna resultados simplificados contendo ID, título, editora e data de publicação.
